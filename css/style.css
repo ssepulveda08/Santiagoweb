@@ -1,0 +1,10 @@
+img.perfil {
+    width: 25%;
+    height: 25%;
+    margin-bottom: 50px
+}
+
+h1.title-cursive {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400 !important;
+}
